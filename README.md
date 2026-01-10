@@ -4,6 +4,7 @@ A minimalist productivity app combining task management with note-taking. Built 
 🚀 Features:
 
 📋 To-Do List:
+
 -Add tasks with title, description, due dates, and priority levels
 
 -Mark tasks as complete with visual indicators
@@ -15,6 +16,7 @@ A minimalist productivity app combining task management with note-taking. Built 
 -Task management with edit and delete functionality
 
 -Persistent storage using browser's local storage
+
 
 📝 Note-Taking:
 
@@ -30,6 +32,7 @@ A minimalist productivity app combining task management with note-taking. Built 
 
 
 🎨 User Interface:
+
 -Modern, clean design with intuitive navigation
 
 -Responsive layout that works on desktop and mobile
