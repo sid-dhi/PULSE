@@ -2,7 +2,7 @@
 A minimalist productivity app combining task management with note-taking. Built with HTML, CSS, and JavaScript.
 
 🚀 Features:
-
+---
 📋 To-Do List:
 
 -Add tasks with title, description, due dates, and priority levels
@@ -17,7 +17,7 @@ A minimalist productivity app combining task management with note-taking. Built 
 
 -Persistent storage using browser's local storage
 
-
+---
 📝 Note-Taking:
 
 -Create rich notes with titles and detailed content
@@ -30,7 +30,7 @@ A minimalist productivity app combining task management with note-taking. Built 
 
 -Search-friendly organization
 
-
+---
 🎨 User Interface:
 
 -Modern, clean design with intuitive navigation
